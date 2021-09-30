@@ -1,13 +1,10 @@
 # RestQueueMgmt
 Created by (2021, May 08) :
-1. 13217006 Johannes Felix Rimbun
-2. 13217018 Ryan Dharma Chandra
-3. 13217071 Wilfrid Azariah
+1. 13217006 Johannes Felix Rimbun (Build the server accessing the database)
+2. 13217018 Ryan Dharma Chandra (Build the Android/Customer Client App)
+3. 13217071 Wilfrid Azariah (Build the Restaurant Client App)
 
 This system is provided as queue management in a restaurant so that every customer can order a food in a restaurant without swarm with another customers in order to prevent  Covid-19 Infection.
-
-The demonstration video can be found at demoRestoMgmtDAN.mp4
-The report can be found in the report fileRestoMgmtDAN.pdf
 
 There are three programs that must be run, each of which is located in the /server/, /restaurant_client/, and /android/ directories. In addition, the mySQL configuration backup database is also located in the /SQLdatabase/ directory.
 
